@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/oauth2-server": "2.*",
+        "zetacomponents/database": "1.4.6"
+    }
+}
